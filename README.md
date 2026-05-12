@@ -97,12 +97,6 @@ Ferramentas utilizadas:
 
 ---
 
-## 💻 Repositório GitHub
-
-🔗 https://github.com/GabrielForcinito/MVP_Organizacao_Academica
-
----
-
 ## ▶️ Como Executar o Projeto
 
 ### Instalar dependências

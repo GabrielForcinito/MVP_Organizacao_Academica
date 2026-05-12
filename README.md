@@ -1,20 +1,111 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📚 StudyFlow — Sistema de Organização Acadêmica
 
-# Run and deploy your AI Studio app
+## 📌 Sobre o Projeto
 
-This contains everything you need to run your app locally.
+O **StudyFlow** é um MVP desenvolvido como projeto acadêmico para a disciplina de **Engenharia de Prompt e Aplicações em IA**.
 
-View your app in AI Studio: https://ai.studio/apps/2bad3265-32fc-46e5-a0aa-a601b44a3238
+O sistema foi criado com o objetivo de auxiliar estudantes na organização de horários, tarefas e atividades acadêmicas, oferecendo uma interface simples, moderna e intuitiva.
 
-## Run Locally
+Durante o desenvolvimento foram utilizadas ferramentas de Inteligência Artificial para criação do protótipo, estruturação do sistema e desenvolvimento da aplicação.
 
-**Prerequisites:**  Node.js
+---
 
+## 🎯 Problema Identificado
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Muitos estudantes possuem dificuldade para:
+
+- Organizar horários de estudo
+- Controlar tarefas acadêmicas
+- Gerenciar compromissos
+- Manter produtividade durante a rotina acadêmica
+
+O StudyFlow foi desenvolvido para oferecer uma solução prática e acessível para esse problema.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📅 Organização de horários
+- ✅ Gerenciamento de tarefas
+- 🔔 Sistema de notificações
+- 👤 Perfil do usuário
+- 📚 Dashboard acadêmico
+- 📱 Interface moderna e responsiva
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React
+- TypeScript
+- Vite
+- CSS
+- Google AI Studio
+- Google Stitch
+- Vercel
+- GitHub
+
+---
+
+## 🖼️ Imagens do Sistema
+
+### 🔐 Tela de Login
+
+<img src="LINK_DA_IMAGEM" width="800"/>
+
+---
+
+### 📊 Dashboard Principal
+
+<img src="LINK_DA_IMAGEM" width="800"/>
+
+---
+
+### 📅 Organização de Horários
+
+<img src="LINK_DA_IMAGEM" width="800"/>
+
+---
+
+### ✅ Gerenciamento de Tarefas
+
+<img src="LINK_DA_IMAGEM" width="800"/>
+
+---
+
+## 🤖 Uso de Inteligência Artificial
+
+Durante o desenvolvimento do projeto foram utilizadas ferramentas de IA para:
+
+- Criação do protótipo inicial
+- Estruturação do MVP
+- Auxílio na interface do sistema
+- Organização da lógica do projeto
+- Desenvolvimento da documentação
+
+Ferramentas utilizadas:
+
+- Google Stitch
+- Google AI Studio
+- ChatGPT
+
+---
+
+## 🌐 Deploy Online
+
+🔗 https://mvp-organizacao-academica.vercel.app
+
+---
+
+## 💻 Repositório GitHub
+
+🔗 https://github.com/GabrielForcinito/MVP_Organizacao_Academica
+
+---
+
+## ▶️ Como Executar o Projeto
+
+### Instalar dependências
+
+```bash
+npm install

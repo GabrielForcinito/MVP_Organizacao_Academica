@@ -51,25 +51,25 @@ O StudyFlow foi desenvolvido para oferecer uma solução prática e acessível p
 
 ### 🔐 Tela de Login
 
-<img src="LINK_DA_IMAGEM" width="800"/>
+<img width="901" height="474" alt="image" src="https://github.com/user-attachments/assets/f77fbc25-a282-4584-b59c-101eda1d5815" />
 
 ---
 
 ### 📊 Dashboard Principal
 
-<img src="LINK_DA_IMAGEM" width="800"/>
+<img width="901" height="461" alt="image" src="https://github.com/user-attachments/assets/f39f1339-4cdf-4987-9cee-f9569ae85d20" />
 
 ---
 
 ### 📅 Organização de Horários
 
-<img src="LINK_DA_IMAGEM" width="800"/>
+<img width="901" height="463" alt="image" src="https://github.com/user-attachments/assets/2f9e8c9b-6df9-4f83-acb7-6594f384819f" />
 
 ---
 
 ### ✅ Gerenciamento de Tarefas
 
-<img src="LINK_DA_IMAGEM" width="800"/>
+<img width="901" height="445" alt="image" src="https://github.com/user-attachments/assets/ffa7411a-6c40-4910-8477-9b92eef3f55f" />
 
 ---
 
@@ -109,3 +109,19 @@ Ferramentas utilizadas:
 
 ```bash
 npm install
+```
+### Executar o projeto
+
+```bash
+npm run dev
+```
+
+### Gerar build de produção
+
+```bash
+npm run build
+```
+
+## 👨‍💻 Autor
+
+Gabriel Forcinito
